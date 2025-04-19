@@ -26,9 +26,7 @@ Participação em treinamentos internos sobre ferramentas de visualização de d
 Habilidades Técnicas
 Power BI: Desenvolvimento de dashboards, modelagem de dados, DAX.
 
-SQL: Criação de queries, manipulação e análise de dados.
-
-<i class="devicon-azuresqldatabase-plain"></i>
+SQL: Criação de queries, manipulação e análise de dados. <i class="devicon-azuresqldatabase-plain"></i>
 
 Looker: Construção de relatórios, modelagem LookML.
 
@@ -44,9 +42,15 @@ ETL e integração de dados
 
 ## Python
 
-<i class="devicon-pandas-plain"></i>
-<i class="devicon-pandas-plain"></i>
+        
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
           
+          
+          
+      
           
 
 
