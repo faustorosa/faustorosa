@@ -59,11 +59,11 @@ Espanhol: básico
 E estou estudando:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="100" height="100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="100" height="100"/>
                     
-## Contato
+# Contato
 E-mail: faustorcrosa@gmail.com
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>
-## LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/fausto-rosa/)
+LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/fausto-rosa/)
 
           
           
