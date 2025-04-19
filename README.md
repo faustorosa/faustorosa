@@ -26,7 +26,14 @@ Participação em treinamentos internos sobre ferramentas de visualização de d
 Habilidades Técnicas
 Power BI: Desenvolvimento de dashboards, modelagem de dados, DAX.
 
-SQL: Criação de queries, manipulação e análise de dados. <i class="devicon-azuresqldatabase-plain"></i>
+SQL: Criação de queries, manipulação e análise de dados.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="100" height="100"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="100" height="100"  />
+          
+          
+          
 
 Looker: Construção de relatórios, modelagem LookML.
 
@@ -36,26 +43,28 @@ Excel avançado
 
 Canva 
 
-<i class="devicon-canva-original"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="100" height="100"/>
+          
           
 ETL e integração de dados
 
 ## Python
 
-        
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" width="100" height="100" />
           
           
           
-      
+          
           
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="100" height="100"/>
 
-<i class="devicon-github-original-wordmark"></i>
-          
+                   
 Competências Comportamentais
 Comunicação clara e objetiva
 
@@ -74,9 +83,15 @@ Inglês: Intermediário
 
 Espanhol: básico
 
+E estou estudando:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="100" height="100" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="100" height="100"/>
+                    
 ## Contato
 E-mail: faustorcrosa@gmail.com
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>
 ## LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/fausto-rosa/)
- <i class="devicon-linkedin-plain"></i>
+
+          
           
