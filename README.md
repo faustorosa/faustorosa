@@ -63,7 +63,7 @@ E estou estudando:
 E-mail: faustorcrosa@gmail.com
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>
-LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/fausto-rosa/)
+LinkedIn: https://www.linkedin.com/in/fausto-rosa/
 
           
           
