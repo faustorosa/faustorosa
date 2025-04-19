@@ -62,7 +62,7 @@ E estou estudando:
 # Contato
 E-mail: faustorcrosa@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/> https://www.linkedin.com/in/fausto-rosa/
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>https://www.linkedin.com/in/fausto-rosa/
 
           
           
